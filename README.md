@@ -3,7 +3,7 @@
 
 <img src='img_src/sample_fig.png' width=100%>
 
-This repository includes codes and data which used in "Single-cell spatial immune landscapes of primary and metastatic brain tumors" paper.  
+This repository includes codes and data used in the "Single-cell spatial immune landscapes of primary and metastatic brain tumors" paper.
 
 ## Summary
 The emergence of single cell technologies in recent years has enabled characterization of the
@@ -29,7 +29,7 @@ of the microenvironmental contexture of cancer.
 
 ## List of repositories used in this project
 
-You can find detail of each analysis in the following repositories. 
+You can find the detail of each analysis in the following repositories. 
 
 * [Cell Segmentation](https://github.com/walsh-quail-labs/Cell-Segmentation)
 * [Cell phenotyping](https://github.com/walsh-quail-labs/Cell-Phenotyping-Brain)
@@ -37,5 +37,5 @@ You can find detail of each analysis in the following repositories.
 
 ## Data
 
-Tif files including masks for each paitionts and used for cell type assignments. Segmentation and cell type assignment results are provided in their sub folders. 
+Tif files including masks for each patient and used for cell type assignments. Segmentation and cell type assignment results are provided in their subfolders. 
 

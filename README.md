@@ -37,5 +37,9 @@ You can find the detail of each analysis in the following repositories.
 
 ## Data
 
-Tif files including masks for each patient and used for cell type assignments. Segmentation and cell type assignment results are provided in their subfolders. 
+The data folders on Zenodo are structured as follows:
 
+1. BRAIN\_IMC\_MaskTif: this folder contains masked multiplex images of the IMC cores.
+2. BRAIN\_IMC\_Segmentation: this folder containes the nuclei segmentation information.
+2. BRAIN\_IMC\_CellType: this folder containes the cell type information for each of the IMC cores.
+4. Clinical Data GBM BrM.xlsx: this folder containes clinical data with regard to the images listed above. 

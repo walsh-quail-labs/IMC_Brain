@@ -37,7 +37,8 @@ You can find the detail of each analysis in the following repositories.
 
 ## Data
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7383719.svg)](https://doi.org/10.5281/zenodo.7383719)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7884599.svg)](https://doi.org/10.5281/zenodo.7884599)
+
 
 
 The data folders on Zenodo are structured as follows:
